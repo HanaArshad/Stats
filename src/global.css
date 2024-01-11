@@ -1,0 +1,25 @@
+@import url("https://fonts.googleapis.com/css2?family=Inika:wght@400;700&display=swap");
+@import url("https://fonts.googleapis.com/icon?family=Material+Icons");
+
+body {
+  margin: 0;
+  line-height: normal;
+}
+:root {
+  /* fonts */
+  --font-inika: Inika;
+
+  /* font sizes */
+  --font-size-mini: 15px;
+
+  /* Colors */
+  --color-black: #000;
+  --color-olivedrab: #578d00;
+  --color-goldenrod: #cea000;
+  --color-firebrick: #a71616;
+  --color-lightgray: #d1d1d1;
+  --color-white: #fff;
+
+  /* Border radiuses */
+  --br-xl: 20px;
+}
